@@ -78,12 +78,12 @@ h5{
 	font-size:14px;
 }
 a {
-  color: #01bafd;font-family: 'Montserrat', sans-serif;
+  color: #D9782D;font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #0195ca;
+  color:  #12A4B6;
   text-decoration: none;
 }
 a:focus {
@@ -117,7 +117,7 @@ body {}
 header area css
 =====================*/
 .header_area{
-	  color: #636363;
+	color: #1E4D2B;
   padding-bottom: 20px;
   padding-top: 20px;
   background:#fff;
@@ -499,9 +499,10 @@ about area css
 .module-title{
 font-family: 'Montserrat', sans-serif;
   font-size: 24px; margin-bottom: 25px;
-  font-weight: normal; color: inherit;	
+  font-weight: normal; color:  #CC5430;	
 }
 .module-title > span {
+  color:  #CC5430;
   display: block;
 font-family: 'Montserrat', sans-serif;
     font-size: 62px;
@@ -686,7 +687,7 @@ teacher area css
   width: 100%;
 }
 .teacher_content{
-  background: rgba(1, 186, 253, 1) none repeat scroll 0 0;
+  background: rgba(236, 197, 48) none repeat scroll 0 0;
   color: #fff;
   opacity: 0;
   padding: 67px 40px;
@@ -1033,7 +1034,7 @@ box-shadow: 0 1px 2px rgba(43, 59, 93, 0.29), 0 0 13px rgba(43, 59, 93, 0.29);
 footer area css 
 ===================*/
 .footer_area {
-  background: #2d2d2d none repeat scroll 0 0;
+  background: #1E4D2B none repeat scroll 0 0;
   padding: 90px 0 60px;
 }
 .footer_top_left span,
@@ -1150,7 +1151,7 @@ margin-left: 20px;
   color: #fff;
 }
 .home-2.nav_area {
-  background: transparent;
+  background: #1E4D2B;
 }
 .home-2.about_area {
   background-image: url("img/home2/transparent-back-2.png");
@@ -1837,7 +1838,7 @@ background: #000 none repeat scroll 0 0;
 }
 /*scrool up*/
 #scrollUp {
-    background-color: #01bafd;
+    background-color:  #CC5430;
     border-radius: 0;
     bottom: 20px;
     color: #fff;
@@ -1848,7 +1849,7 @@ background: #000 none repeat scroll 0 0;
     text-align: center;
     text-decoration: none;
     width: 45px;
-	border:1px solid #0F99DE;
+	border:1px solid  #105456;
 	transition:1s;
 }
 #scrollUp:hover {
