@@ -1163,7 +1163,7 @@ margin-left: 20px;
   background-image: url("img/video.jpg");
 }
 .text_timonial{
-	background:rgb(130,181,63);
+	background:#1E4D2B;
 	clear:both;	
 }
 .text_timonial:after{
@@ -1175,7 +1175,7 @@ margin-left: 20px;
   width: 60%;float:left;
 }
 .testimonial_text_inner {
-  padding: 47px 0 0 50px;
+  padding: 85px 0 0 43px;
 }
 .testimonial_text_inner p,
 .testimonial_text_inner h2,
