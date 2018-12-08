@@ -83,7 +83,7 @@ a {
 }
 a:hover,
 a:focus {
-  color:  #12A4B6;
+  color:  #CC5430;
   text-decoration: none;
 }
 a:focus {
@@ -168,11 +168,11 @@ select.form-lan {
     -o-transition: .3s;
     -ms-transition: .3s;
     transition: .3s;
-	padding:15px 17px;
+	padding:17px 17px;
 }
 .menu ul li:hover a {
     color: #fff;
-    background: #02BAFF;
+    background: #D9782D;
 }
 .menu ul ul {
   background: #01bafd none repeat scroll 0 0;
@@ -931,7 +931,7 @@ share area css
   background:#089cca;
 }
 .share-container > div:nth-child(3) .share-item {
-  background:#de332c;
+  background:#8a3ab9;
 }
 .share-container > div:nth-child(3) .share-item:hover {
   background:#a41f1a;
@@ -1035,7 +1035,7 @@ footer area css
 ===================*/
 .footer_area {
   background: #1E4D2B none repeat scroll 0 0;
-  padding: 90px 0 60px;
+  padding: 30px 0 60px;
 }
 .footer_top_left span,
 .footer_top_right span{
@@ -1182,6 +1182,7 @@ margin-left: 20px;
 .testimonial_text_inner h5
 {
 	color:#fff;
+  font-style: italic;
 }
 .test_thumb{
 	width:40%;
