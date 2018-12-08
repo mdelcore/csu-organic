@@ -1416,7 +1416,7 @@ color:#636363;
 }
 .about_area_s::before,.blog_samurry::before {
   bottom: 0;
-  box-shadow: -100px -600px 100px -400px rgba(0, 0, 0, 0.5) inset;
+  box-shadow: -100px -600px 100px -400px rgba(217, 120, 45) inset;
   content: "";
   display: block;
   height: 100%;
